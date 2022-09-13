@@ -1,0 +1,7 @@
+Nice job.
+Ensure you maintain proper folder structures always.
+The comments on your code is great. Keep it up. It help other developers understand your code.
+
+Try to implement default error handling sometimes in express. So that you don't have to always implement 404 errors yourself.
+
+Nonetheless, nice work with the error handling.
